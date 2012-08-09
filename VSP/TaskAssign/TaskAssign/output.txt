@@ -1,0 +1,18 @@
+===================UCS-O========================
+Running time for UCS-O is 0.006000
+Memory requirement for UCS-O is 166
+===================UCS-ET========================
+Running time for UCS-ET is 0.018000
+Memory requirement for UCS-ET is 1112
+===================GS-O========================
+Running time for GS-O is 0.005000
+Memory requirement for GS-O is 30
+===================GS-ET========================
+Running time for GS-ET is 0.008000
+Memory requirement for GS-ET is 573
+===================AS-O========================
+Running time for AS-O is 0.005000
+Memory requirement for AS-O is 30
+===================AS-ET========================
+Running time for AS-ET is 0.018000
+Memory requirement for AS-ET is 1112

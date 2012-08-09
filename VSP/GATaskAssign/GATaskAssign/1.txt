@@ -1,0 +1,6 @@
+plan-01:
+Optimize for ET
+ET Cost is 91.000000 (switching cost 61.000000 + transition cost 30.000000)
+task assignment order is
+engine 0 : A G H E 
+engine 1 : C D F B 

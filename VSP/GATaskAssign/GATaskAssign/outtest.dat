@@ -1,0 +1,10 @@
+--------------------Result Anaylsis---------------------
+search space for GA based on ET is 715
+Runtime for GA based on ET is 0.062000
+--------------------------------------------------------
+search space for GA based on O is 658
+Runtime for GA based on ET is 0.049000
+--------------------------------------------------------
+search space for GANORMAL based on both ET and O is 739
+Runtime for GA based on ET is 0.041000
+--------------------------------------------------------

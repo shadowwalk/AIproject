@@ -1,0 +1,22 @@
+#Workflow description file
+#anything follows a hash (#) is comment.
+
+wf-01:							# workflow name
+[task]							# task descrption section
+
+#Format:
+#		task-name [Required instructions, required_memory_size (MB), output_size (MB)]
+t-01 [10,20,10]
+t-02 [1,4,1]
+t-03 [5,14,1]
+t-04 [7,4,10]
+# workflow defination is same as that in the pdf.
+
+[dependency]				# task dependency
+# d(t1,t2) means that t2 requires t1 to be completed before it can start.
+d(t-02,t-01)
+d(t-03,t-01)
+d(t-03,t-02)
+
+#Pay strong attention here , the dependency defination is a bit different from the one in the example. Its reversed.Use this defination to solve your programming problems.
+ 

@@ -1,0 +1,8 @@
+plan-01:
+Optimize ET
+Cost for O is: 11
+ET is :92.666668    (original cost 46.000000 + switching cost 46.666668)
+Task Assignment Order is :
+Engine 0 : B  C 
+Engine 1 : D  H  I 
+Engine 2 : A  E  F  G 

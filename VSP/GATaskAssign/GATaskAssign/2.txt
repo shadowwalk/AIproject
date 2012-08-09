@@ -1,0 +1,6 @@
+plan-02:
+Optimize for O
+total O Cost is 10 
+task assignment order is
+engine 0 : A C D G 
+engine 1 : F B H E 

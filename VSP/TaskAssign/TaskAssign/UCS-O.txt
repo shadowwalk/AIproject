@@ -1,0 +1,7 @@
+plan-01:
+Optimize O and O is Optimal
+Cost for O is: 0
+Task Assignment Order is :
+Engine 0 : A  E  F 
+Engine 1 : B  C  D  G  H  I 
+Engine 2 :

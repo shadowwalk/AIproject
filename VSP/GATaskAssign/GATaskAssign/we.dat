@@ -1,0 +1,19 @@
+#Workflow engine description file
+#anything follows a hash (#) is comment.
+
+wf-system-01:					# workflow system name
+[engine]							# engine section
+#Format:
+#      engine-name	[computation-speed, memory-size]
+e-01 [1,20]
+e-02 [2,50]
+e-03 [2,20]
+
+#computation speed : Number of instructions that the engine can perform in one microsecond
+#note that the defination for the engines is same as in the pdf . Its just different terms meaning the same thing.
+
+[bandwidth]						# bandwidth between each engine
+# NO TO BE USED IN HOMEWORK 1
+m(e-01,e-02) = 10
+m(e-01,e-03) = 10
+m(e-02,e-03) = 5

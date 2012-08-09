@@ -1,0 +1,6 @@
+plan-03:
+Optimize for both ET and O
+normalized Cost is 69.699997 (I cost 91.000000 , O cost 20)
+task assignment order is
+engine 0 : A G H E 
+engine 1 : C D F B 
